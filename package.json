@@ -255,7 +255,7 @@
     "jest": "^30.1.3"
   },
   "scripts": {
-    "test": "jest"
+      "test": "npx jest"
   },
   "keywords": [],
   "author": "",
